@@ -1,0 +1,21 @@
+.banner{
+    text-align: center;
+    background: #ea5c22;
+    width: 100%;
+    border-bottom: 1px solid silver;
+    height: 557px;
+}
+.banner-text{
+    color: #fff;
+    margin-top: 10rem;
+}
+.button{
+   margin: 4rem auto;
+}
+.info{
+    margin-top: 9rem;
+}
+.icon{
+    text-align: center;
+    margin-bottom: 3rem;
+}
